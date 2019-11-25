@@ -7,9 +7,7 @@ Task 6.6
 ![1](1.png)
 
 
-2. In the second level directory, create the files my, my1, my2, pp, ppp. In the files my, my1, pp put information about logged in users.
-
-![2](2.png)
+2
 
 
 3. Create an archive arc1.tar of the third level catalog. The files file1 and dat should not fall into it. View the size of the archive and the files that have been added to the archive.
