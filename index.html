@@ -1,8 +1,13 @@
+echo "Start"
+cat <<EOF > index.html
 <html>
  <head>
   <title>Тестируем PHP</title>
  </head>
- <body>
- <?php echo '<p>Привет Вам и нам и всем dctv, мир от меня b Dfc!</p>'; ?>
+ <body bgcolor=green>
+ <p style = "color: red; text-align: center; font-size: 70px;">Привет, мир от меня!</p>
  </body>
 </html>
+EOF
+echo "finish"
+ls -la
